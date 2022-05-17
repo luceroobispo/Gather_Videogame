@@ -1,5 +1,6 @@
 # Gather
 El videojuego Gather ha sido creado con el propósito de concientizar a la población sobre la importancia del reciclaje. Puesto que, este genera un gran beneficio para nuestro planeta, ya que disminuye la contaminación por basura en los diferentes ecosistemas considerablemente. De esta manera, ayudaremos en la prevención del cambio climático e infecciones que atentan a la salud pública así como en la preservación de la biodiversidad marina.
+El videojego ha sido realizados con formularios, sprites y programación orientada a objetos.
 
 ## Reglas del videojuego
 -	Para pasar de nivel el personaje debe recolectar la basura solicitada y colocarla en el bote de basura correspondiente dentro del tiempo establecido. Por ejemplo, si el jugador quiere reciclar vidrios, entonces deberá depositarlo en el bote de basura de vidrios. Además, cuando pasa de nivel, su número de vidas se incrementa en uno.
