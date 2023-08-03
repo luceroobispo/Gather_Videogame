@@ -50,8 +50,6 @@ El videojuego Gather ha sido creado con el propósito de concientizar a la pobla
 -	Bonus: Estrella (Aparece después de 20 segundos y si no lo atrapas desaparece). Si colisionas con uno de ellos, los enemigos no se mueven.
 
 
-## Autores
-- Sara Gabriela Estrada Fernández
-- Kiara Maryfe Guerrero Rodrigo
-- Kurt Brandon Harrison Reyes Oré
-- Lucero Abigail Obispo Rios 🙋🏻
+## Creditos
+Made with ❤️ by @luceroobispo
+
